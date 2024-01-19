@@ -1,0 +1,51 @@
+body{
+    
+ background-color: wheat;   
+    
+}
+img{
+    width: 200px;
+    height: 300px;
+    border-radius: 30px;
+    float:right;
+    top: 0px;
+    right: 0px;
+    
+}
+
+h1{
+    
+    font-size: 60px;color: rgb(6, 234, 246);
+    text-align: center;
+    background-color: rgb(11, 11, 11);
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 15PX;
+}
+span{
+    background-color: rgb(53, 105, 77);
+    border: solid;
+    
+    border-radius: 15px;
+    border-color: rgb(10, 10, 10);
+}
+#first{
+    font-size: 50px;
+    color: #eed706;
+    
+}
+#second{
+    font-size: 50px;
+    color: rgb(245, 14, 106);
+    
+}
+#third{
+    font-size: 50px;
+    color: rgb(107, 249, 6);
+    
+}
+#fourth{
+    font-size: 50px;
+    color: rgb(127, 85, 195);
+    
+}
